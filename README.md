@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI networking app<br>👯 I’m open to collaborate on AI related projects<br>🌱 I’m currently learning Artificial Intelligence and GenAI<br>⚡ Fun fact: I can Design
+🔭 I’m currently working on a AI-related Research (contact me to know more) <br>👯 I’m open to collaborate on AI related projects<br>🌱 I’m currently learning Artificial Intelligence and GenAI<br>⚡ Fun fact: I can Design
 
 
 ## 🌐 Socials:
